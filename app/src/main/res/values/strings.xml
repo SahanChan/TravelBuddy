@@ -1,3 +1,46 @@
 <resources>
-    <string name="app_name">TravelBuddy</string>
+    <string name="app_name">Travel Buddy</string>
+
+    <string name="places_to_visit">Places to Visit</string>
+    <string name="nearby_locations">Nearby Locations</string>
+
+    <string name="sign_in_to_the_travel_community">Sign in to the Travel Community</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_your_password"><a>Forgot your password ?</a></string>
+    <string name="google">Google</string>
+    <string name="create_account">Create Account</string>
+
+    <string name="your_profile_name">Your Profile</string>
+    <string name="no_of_buddies">200</string>
+    <string name="buddies">Buddies</string>
+    <string name="new_post">New Post</string>
+    <string name="other_username1">Your friends username</string>
+    <string name="caption">Dummy Text for the caption :-)</string>
+
+    <string name="home">Home</string>
+    <string name="map">Map</string>
+    <string name="social">Social</string>
+    <string name="sites">Sites</string>
+    <string name="plan_your_trip">Plan Your Trip</string>
+    <string name="weather_climate">Weather & Climate</string>
+    <string name="view_holidays">View Holidays</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="provide_feedback">Provide Feedback</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="settings">Settings</string>
+
+    <string name="enter_location">Settings</string>
+
+
+
+
+
+
+
+
+
+
 </resources>
