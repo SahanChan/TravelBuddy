@@ -25,7 +25,7 @@
     <string name="social">Social</string>
     <string name="sites">Sites</string>
     <string name="plan_your_trip">Plan Your Trip</string>
-    <string name="weather_climate">Weather & Climate</string>
+    <string name="weather_climate">Weather and Climate</string>
     <string name="view_holidays">View Holidays</string>
     <string name="currency_converter">Currency Converter</string>
     <string name="provide_feedback">Provide Feedback</string>
@@ -37,15 +37,52 @@
     <string name="name_of_location">Sigiriya Central Province</string>
     <string name="description">Lorem ipsum dummy data</string>
 
+    <string name="sort_by">Sort by : </string>
+    <string name="most_viewed">Most viewed</string>
+    <string name="most_traveled">Most Traveled</string>
+    <string name="distance">Distance</string>
+    <string name="description1">Lorem ipsum dummy data</string>
+
+    <string name="convert">Convert</string>
+    <string name="to">To</string>
+    <string name="currency1">USD</string>
+    <string name="currency2">LKR</string>
+    <string name="value">20.5</string>
+    <string name="currency1_sign">$</string>
+    <string name="currency2_sign">LKR</string>
+    <string name="result">3764.89</string>
+
+    <string name="enter_city_or_district">Enter city or District</string>
+    <string name="city_name">Colombo</string>
+    <string name="temperature">28 C</string>
+    <string name="is_cloudy">Partly Cloudy</string>
+    <string name="precipitation">Precipitation</string>
+    <string name="precipitation_val">20%</string>
+    <string name="humidity">Humidity</string>
+    <string name="humidity_val">82%</string>
+    <string name="wind">Wind</string>
+    <string name="wind_val">16 Km/h</string>
 
 
+    <string name="plan_your_holiday">Plan your holiday</string>
+    <string name="number_of_days_for_the_trip">Number of days for the trip</string>
+    <string name="no_of_days">4 days</string>
+    <string name="number_of_places_to_visit">Number of places to visit</string>
+    <string name="no_of_places">3</string>
+    <string name="other_notes">Other notes</string>
+    <string name="holiday_description">Description</string>
 
 
-
-
-
-
-
-
+    <!-- loop of all dates -->
+    <string name="holiday_name">Duruthu Full Moon Poya day</string>
+    <string name="date">Fri, Jan 10 2020</string>
+    <string name="contact_us_text">Contact us</string>
+    <string name="provide_feedbacd_text">Provide Feedback</string>
+    <string name="call_us">Call Us</string>
+    <string name="number">0711111111</string>
+    <string name="send_an_email_at">Send an email at :</string>
+    <string name="description_about_us">Dummy Text Lorem ipsum</string>
+    <string name="type_feedback">Type us a feedback and let us support you</string>
+    <string name="type_here">Type here</string>
 
 </resources>
