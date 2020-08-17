@@ -9,5 +9,5 @@ IT19026244 L.W.P.Uvindu
 
 all string are in the strings.xml files
 
-
+Other members have dificulties with commiting to the repository since android studio is functioning slow in the computers.
 
